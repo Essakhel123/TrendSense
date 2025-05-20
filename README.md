@@ -1,0 +1,2 @@
+# TrendSense
+Trading analysis
